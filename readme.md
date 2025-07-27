@@ -1,8 +1,8 @@
 Hello, I'm Emmeline!
 
-I do a handful of things, notably Minecraft modding, language development, and game development.
+I am primarily interested in compiler/interpreter and game development.
 
-I work in C, V, Python, (sometimes) Rust, Nim, Java, Kotlin, and a few other languages.
+I primarily work in C. I also use Rust, Java, V, and Python often.
 
 I can also be found on Codeberg [here](https://codeberg.org/emmathemartian).
 
