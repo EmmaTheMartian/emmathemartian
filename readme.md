@@ -1,5 +1,7 @@
 Hello, I'm Emmeline!
 
+Currently migrating to tangled.org [here](https://tangled.org/emmeline.girlkisser.top).
+
 I am primarily interested in compilers/interpreters and game development.
 
 I primarily work in C(99) and V.
